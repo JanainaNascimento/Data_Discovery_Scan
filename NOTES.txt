@@ -1,0 +1,19 @@
+módulo socket
+>provável meio de comunicação com IP
+
+módulo paramiko
+>provável meio de comunicação com SSH
+
+módulo re
+>provável forma de busca de dados sensíveis
+
+*git
+*vscode
+*excessões
+*nomes apropriados (en/us) para variáveis
+*comentários (pt/br)
+*comentários para funções e procedimentos ('''pt/br''')
+
+- buscar dados pessoais e dados pessoais sensíveis;
+- classificar o que é sensível ou não
+- linhas ou frases por método string (próximo ponto final, primeira maiúscula, etc.)
