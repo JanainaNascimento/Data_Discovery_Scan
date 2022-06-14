@@ -3,7 +3,7 @@ import re
 with open('Projeto TCC.txt', 'r', encoding='UTF-8') as file:
     content = file.readlines()
 
-    print(content)
+    print(content) # The entire file
     
     for line in content:
         if re.search('de', line):
