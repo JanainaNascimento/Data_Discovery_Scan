@@ -1,0 +1,15 @@
+
+1. Abra uma pasta no sistema
+2. Abra um arquivo ou documento dentro da pasta
+3. Leia o conteúdo do arquivo ou documento
+4. Faça uma comparação com a base de dados do que seria um dados pessoal sensível, regex, IA etc.
+5. Verificar se os dados encontrados no arquivo são sensíveis
+6. Adicionar a lista caso sejam sensíveis ou ignorar caso não sejam
+7. Após analisar todos os arquivos e documentos, retornar com o que foi encontrado:
+- Relatórios,
+- Listas, 
+- Documentos,
+- Arquivos, 
+- Diretórios,
+- Dashboards.
+
