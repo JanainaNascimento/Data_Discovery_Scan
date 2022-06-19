@@ -1,0 +1,1 @@
+Está ferramenta tem como objetivo, scannear e descobrir arquivos em busca de dados pessoais sensíveis no ambiente tecnológico.
